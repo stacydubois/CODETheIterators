@@ -11,6 +11,7 @@ public class MyActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        System.out.println("testing");
+        System.out.println("testing from MarkusBranch");
+
     }
 }
