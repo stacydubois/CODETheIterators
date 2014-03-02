@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="simplekmlsrc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../../../Simple-KML-master/Simple-KML-master/SimpleKML/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../Simple-KML-master/Simple-KML-master/SimpleKML/src" />
+    </SOURCES>
+  </library>
+</component>

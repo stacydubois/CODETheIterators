@@ -23,6 +23,62 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/JavaAPIforKml.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/lib/jaxb-api.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/lib/jaxb-core.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/lib/jaxb-impl.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/lib/jaxb-jxc.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/lib/jaxb-xjc.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/lib/jaxb-core-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/lib/jaxb-impl-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/lib/jaxb-jxc-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/lib/jaxb-xjc-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/osgi/jaxb-api-osgi.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/osgi/jaxb-extra-osgi.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/osgi/jaxb-osgi.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/osgi/jaxb-api-osgi-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/osgi/jaxb-extra-osgi-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/osgi/jaxb-api-osgi-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/osgi/jaxb-extra-osgi-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/osgi/jaxb-osgi-javadoc.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/jaxb-ri-2.2.7/osgi/jaxb-osgi-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../Simple-KML-master/Simple-KML-master/SimpleKML/libs/simple-xml-2.6.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="simplekmlsrc" level="project" />
   </component>
 </module>
 
